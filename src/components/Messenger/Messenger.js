@@ -36,6 +36,10 @@ export default class Messenger extends React.Component {
     this.scrollToBottom();
   }
 
+  componentWillUnmount() {
+    clearInterval(this.timerID);
+  }
+
   async addMessage(message) {
     try {
       await fetch(`${this.url}/messages`, {
