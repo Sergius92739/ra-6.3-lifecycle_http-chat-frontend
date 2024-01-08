@@ -4,7 +4,9 @@
 
 ## Frontend:  <a href="https://sergius92739.github.io/ra-6.3-lifecycle_http-chat-frontend/">Github Pages</a>
 
-## Backend:  <a href="https://ra-6-3-lifecycle-http-chat.herokuapp.com/">Heroku</a>
+## Server:  <a href="https://ra-6-3-lifecycle-http-chat-backend.onrender.com">Render</a>
+
+## Backend: <a href="https://github.com/Sergius92739/ra-6.3-lifecycle_http-chat-backend">Repository</a>
 
 Вам необходимо реализовать абсолютно анонимный чат (такого, конечн,о не бывает ☺), в который сможет отправлять сообщения любой желающий.
 
