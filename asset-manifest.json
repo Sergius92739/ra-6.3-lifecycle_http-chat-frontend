@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ra-6.3-lifecycle_http-chat-frontend/static/css/main.84181713.css",
+    "main.js": "/ra-6.3-lifecycle_http-chat-frontend/static/js/main.1c2f7c1e.js",
+    "static/js/787.d50fd764.chunk.js": "/ra-6.3-lifecycle_http-chat-frontend/static/js/787.d50fd764.chunk.js",
+    "static/media/Inter.ttf": "/ra-6.3-lifecycle_http-chat-frontend/static/media/Inter.9cd7588f47651215d52f.ttf",
+    "index.html": "/ra-6.3-lifecycle_http-chat-frontend/index.html",
+    "main.84181713.css.map": "/ra-6.3-lifecycle_http-chat-frontend/static/css/main.84181713.css.map",
+    "main.1c2f7c1e.js.map": "/ra-6.3-lifecycle_http-chat-frontend/static/js/main.1c2f7c1e.js.map",
+    "787.d50fd764.chunk.js.map": "/ra-6.3-lifecycle_http-chat-frontend/static/js/787.d50fd764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84181713.css",
+    "static/js/main.1c2f7c1e.js"
+  ]
+}
